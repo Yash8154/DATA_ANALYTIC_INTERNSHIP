@@ -1,0 +1,37 @@
+abc.....ABC36672839#
+.....yashmehta908kjul
+avf--nshdbdeg
+abc      abc        def   $......abc
+gecsurat....
+ABCDEFGHIJ....abc
+GHIJKLM?MKLJ
+1234567890
+768ABC657RFG
+adddc...
+.......d
+a...d
+ab...def
+...def
+abab...def...
+...
+\s \d 
+\d\d
+678=
+# regex :
+\d find number
+\d\d\d\...or....\d{any number like 1,2,3,...}
+\d{1,5} first find max. pair of five and then go for lower pair
+\D find all things except number
+\.find dot
+[abc] either search a or b or c as a single if we use {}then search as a pair
+[a-z]find all lower case alphabet
+[a-z0-9A-Z]find all alphabet and numbers as well
+[^abc]search everthing except abc
+\w search all alpha numeric except special characters
+\W search all special characters except alpha numeric
+\s search white space
+^abc find pair of abc in the begining of the string
+abc$ find pair of abc in the ending of the string
+[a-c]+\.{3}[d-f]+ represent atleast one or more occurance of a to c and d to f and three dots present in pattern
+[a-c]*\.{3}[d-f]* represent there is no requirement of a to c and d to f is present if present then it will work as a +
+[a-c]?\.{3}[d-f]+ represent atleast 0 or 1 occurance of a to c is present and one or more occurance of  d to f present and 3 dots

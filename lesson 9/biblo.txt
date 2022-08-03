@@ -1,0 +1,14 @@
+Book1:The Evidential Power of Beauty
+first:Thomas
+last:Dubay
+publisher: Ignatius Press
+year:1999
+place:San Francisco
+
+Book2:Python in a Nutshell
+first:Alex
+last:Martelli
+publisher:O′Reilly
+year: 2017
+place:Sebastopol, CA
+
