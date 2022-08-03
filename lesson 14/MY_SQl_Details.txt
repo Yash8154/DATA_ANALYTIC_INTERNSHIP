@@ -1,0 +1,15 @@
+MySQL database name:yashmehta8799
+MySQL username: hpmehta75
+MySQL user password: lifeokyash1799
+MySQL user password:
+verification:  
+Email address: yashmehta8799@gmail.com 
+
+ Database: yashmehta8799
+Username: hpmehta75
+Email: yashmehta8799@gmail.com
+
+client = pymongo.MongoClient("mongodb+srv://hpmehta75:<password>@cluster0.f8nb6.mongodb.net/?retryWrites=true&w=majority")
+db = client.test
+
+mongodb=life1799
