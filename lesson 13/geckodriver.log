@@ -1,0 +1,89 @@
+1658218844435	geckodriver	INFO	Listening on 127.0.0.1:60857
+1658218847485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60858" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehta Yash\\AppData\\Local\\Temp\\rust_mozprofileaNouVk"
+1658218851898	Marionette	INFO	Marionette enabled
+1658218851929	Marionette	INFO	Listening on port 60867
+WebDriver BiDi listening on ws://localhost:60858
+Read port: 60867
+1658218853360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mehta Yash\\AppData\\Local\\Temp\\rust_mozprofileaNouVk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60858/devtools/browser/b005e25e-b17b-4377-9ebc-ce3fa8476463
+1658218890441	Marionette	INFO	Stopped listening on port 60867
+[Parent 12840, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658218898159	geckodriver	INFO	Listening on 127.0.0.1:60948
+1658218900998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60949" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehta Yash\\AppData\\Local\\Temp\\rust_mozprofiletFJFCT"
+1658218902083	Marionette	INFO	Marionette enabled
+1658218902092	Marionette	INFO	Listening on port 60960
+WebDriver BiDi listening on ws://localhost:60949
+Read port: 60960
+1658218902735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mehta Yash\\AppData\\Local\\Temp\\rust_mozprofiletFJFCT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60949/devtools/browser/dbea08a9-0651-4c58-ae38-5b54abeca022
+1658218961146	Marionette	INFO	Stopped listening on port 60960
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658218983181	geckodriver	INFO	Listening on 127.0.0.1:61092
+1658218986128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehta Yash\\AppData\\Local\\Temp\\rust_mozprofile0btGLK"
+1658218987850	Marionette	INFO	Marionette enabled
+1658218987869	Marionette	INFO	Listening on port 61108
+WebDriver BiDi listening on ws://localhost:61093
+Read port: 61108
+1658218988686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mehta Yash\\AppData\\Local\\Temp\\rust_mozprofile0btGLK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61093/devtools/browser/f1309507-8948-4cf4-a567-cc692defbe92
+1658219059003	geckodriver	INFO	Listening on 127.0.0.1:61234
+1658219061666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehta Yash\\AppData\\Local\\Temp\\rust_mozprofile8Ean75"
+1658219064719	Marionette	INFO	Marionette enabled
+1658219064730	Marionette	INFO	Listening on port 61250
+WebDriver BiDi listening on ws://localhost:61235
+Read port: 61250
+1658219065925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mehta Yash\\AppData\\Local\\Temp\\rust_mozprofile8Ean75\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61235/devtools/browser/e34489c5-be71-4abb-a19a-bc441834fb6b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sbipensionfunds.com"
+1658220717981	Marionette	INFO	Stopped listening on port 61250
+[Parent 11612, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1658221635875	geckodriver	INFO	Listening on 127.0.0.1:49912
+1658221638802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehta Yash\\AppData\\Local\\Temp\\rust_mozprofilerh18s2"
+1658221644703	Marionette	INFO	Marionette enabled
+1658221644775	Marionette	INFO	Listening on port 49922
+Read port: 49922
+WebDriver BiDi listening on ws://localhost:49913
+Read port: 49922
+1658221650127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mehta Yash\\AppData\\Local\\Temp\\rust_mozprofilerh18s2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49913/devtools/browser/d21447c5-e3e6-4553-9438-239ed19ebddb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sbipensionfunds.com"
+1658221697360	Marionette	INFO	Stopped listening on port 49922
+[Parent 11304, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1658221749845	geckodriver	INFO	Listening on 127.0.0.1:50029
+1658221752842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50030" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehta Yash\\AppData\\Local\\Temp\\rust_mozprofileYBpct8"
+1658221754850	Marionette	INFO	Marionette enabled
+1658221754858	Marionette	INFO	Listening on port 50046
+WebDriver BiDi listening on ws://localhost:50030
+Read port: 50046
+1658221756180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mehta Yash\\AppData\\Local\\Temp\\rust_mozprofileYBpct8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50030/devtools/browser/fb668542-b730-4ef0-b571-104e0d660bb4
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sbipensionfunds.com"
+1658221784258	Marionette	INFO	Stopped listening on port 50046
+[Parent 11168, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1658501379777	geckodriver	INFO	Listening on 127.0.0.1:64056
+1658501385714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mehta Yash\\AppData\\Local\\Temp\\rust_mozprofileJhXvMR"
+1658501398903	Marionette	INFO	Marionette enabled
+1658501399151	Marionette	INFO	Listening on port 64080
+WebDriver BiDi listening on ws://localhost:64057
+Read port: 64080
+Read port: 64080
+Read port: 64080
+Read port: 64080
+1658501405797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mehta Yash\\AppData\\Local\\Temp\\rust_mozprofileJhXvMR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64057/devtools/browser/99d2c18e-ef57-4c27-a179-d599492b5ade
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sbipensionfunds.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1658501683081	Marionette	INFO	Stopped listening on port 64080
